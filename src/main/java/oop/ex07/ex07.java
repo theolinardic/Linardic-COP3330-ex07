@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Summer 2021 Assignment 1 Exercise 06 Solution
+ *  UCF COP3330 Summer 2021 Assignment 1 Exercise 07 Solution
  *  Copyright 2021 Theodore Linardic
  */
 
